@@ -1,4 +1,8 @@
 # MY-First-Project
 
-this is my first Project that i create in my sem5. i create this in my mobile phone. 
-all the coding and database setup is done in mobile phone only, using spck editor and awebserver.
+All Coding Done in Mobile. 
+
+Mobile App required:- 
+1. Spck Editor(Html,Css,Js)
+2. Awebserver(For database setup)
+3. Zarchiver(Or can use any suitable file Manager)
